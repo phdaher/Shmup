@@ -1,3 +1,3 @@
 # Shoot em Up
 
-# Press ESC to restart
+Press ESC to restart
